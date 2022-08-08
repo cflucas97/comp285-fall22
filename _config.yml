@@ -15,9 +15,9 @@
 # in the templates via {{ site.myvariable }}.
 title: 'COMP 285'
 tagline: 'Analysis of Algorithms'
-description: 'North Carolina A&T University, Spring 2022'
-author: Luis A. Perez
-baseurl: '/algorithms-course' # the subpath of your site, e.g. /blog
+description: 'North Carolina A&T University, Fall 2022'
+author: Chris Lucas
+baseurl: '/comp285' # the subpath of your site, e.g. /blog
 url: 'https://facebookeir.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 ga_tracking: G-87Q4Z33975
@@ -30,15 +30,15 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   Blackboard:
-    - 'https://blackboard.ncat.edu/webapps/blackboard/execute/modulepage/view?course_id=_3567742_1'
+    - 'https://blackboard.ncat.edu/webapps/blackboard/execute/modulepage/view?course_id=_3571354_1'
   Piazza:
-    - 'https://piazza.com/north_carolina_at_state_university/spring2022/comp285/home'
+    - 'https://piazza.com/class/l6fee1cmjpp5az'
   Gradescope:
-    - 'https://www.gradescope.com/courses/350304'
+    - 'https://www.gradescope.com/courses/413684'
   Zoom:
     - 'https://ncat.zoom.us/s/99432621515?pwd=WmNzUWp4N1liSGZzWTBrQWZOMUlhZz09'
   Feedback:
-    - 'https://forms.office.com/r/Z2dBW4Xn2L'
+    - 'https://forms.gle/pDXN9rzdg83jifUCA'
 
 aux_links_new_tab: true
 
