@@ -1,6 +1,6 @@
 # COMP 285: Analysis of Algorithms Site
 
-This repo contains the course website for COMP 285: Analysis of Algorithms at North Carolina A&T University for Spring 2022. The course website is based off [Just the Class](https://github.com/kevinlin1/just-the-class/generate) by Kevin Lin, and adapted,
+This repo contains the course website for COMP 285: Analysis of Algorithms at North Carolina A&T University for Fall 2022. The course website is based off [Just the Class](https://github.com/kevinlin1/just-the-class/generate) by Kevin Lin, and adapted,
 
 
 ## Getting Started for Local Development
