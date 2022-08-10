@@ -31,6 +31,10 @@ schedule:
         start: 2:00 PM
         end: 3:15 PM
         location: Graham Hall 208
+      - name: Office Hours [Chris]
+        start: 3:30 PM
+        end: 4:30 PM
+        location: ERIC 331
   - name: Wednesday
     events:
       - name: Office Hours [Chris]
@@ -43,4 +47,8 @@ schedule:
         start: 2:00 PM
         end: 3:15 PM
         location: Graham Hall 208
+      - name: Office Hours [Chris]
+        start: 3:30 PM
+        end: 4:30 PM
+        location: ERIC 331
 ---
