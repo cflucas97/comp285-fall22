@@ -1,7 +1,7 @@
 ---
 title: Week 0 Announcement
 week: 0
-date: 2022-01-10
+date: 2022-08-18
 ---
 
 #### Welcome to COMP 285! 
