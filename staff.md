@@ -11,7 +11,7 @@ description: A listing of all the course staff members.
 
 ## Professor Hours
 
-Given the restrictions to ERIC, all student hours for Week 0-5 will be held over [Zoom](https://ncat.zoom.us/j/7927890938)!
+Given the restrictions to ERIC, all student hours for Week 0-5 will be held over [Zoom](https://ncat.zoom.us/j/9728635650)!
 
 This includes the normally "in-person" student hours of:
 
@@ -26,9 +26,9 @@ Additional online-only student hours are:
 
 ## TA Student Hours
 
-- Monday: 1:00pm - 2:00pm in [Zoom](https://ncat.zoom.us/j/93471622385)
-- Wednesday: 1:00pm - 2:00pm in [Zoom](https://ncat.zoom.us/j/93471622385)
-- Friday: 1:00pm - 2:00pm in [Zoom](https://ncat.zoom.us/j/93471622385)
+- Monday: 1:00pm - 2:00pm in [Zoom](https://ncat.zoom.us/j/9728635650)
+- Wednesday: 1:00pm - 2:00pm in [Zoom](https://ncat.zoom.us/j/9728635650)
+- Friday: 1:00pm - 2:00pm in [Zoom](https://ncat.zoom.us/j/9728635650)
 
 
 ### Regular Student Hours

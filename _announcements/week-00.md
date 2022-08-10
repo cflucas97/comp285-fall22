@@ -6,7 +6,7 @@ date: 2022-08-18
 
 #### Welcome to COMP 285! 
 
-Our first lecture is Thursday, Aug 18th in Graham 208! If you are unable to join in-person due to quarantine, please join us on [Zoom](). INSERT LINK
+Our first lecture is Thursday, Aug 18th in Graham 208! If you are unable to join in-person due to quarantine, please join us on [Zoom](https://ncat.zoom.us/j/9728635650).
 
 #### HW0 Relased
 
