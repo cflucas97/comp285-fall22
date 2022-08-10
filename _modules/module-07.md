@@ -1,13 +1,14 @@
 ---
-title: Graphs II - Advanced Graph Algorithms
+title: Wrap-up
 ---
 
-Feb 25
-: **Lecture**{: .label .label-purple}[Strongly Connected Components]({{"Strongly Connected Components" | slugify | prepend: "/lectures/#" | relative_url }})
-: **Homework Due @ 11:59pm**{: .label .label-red}[HW5]({{ "/homework/#hw5" | relative_url }})
+Nov 29
+: **Lecture**{: .label .label-purple}[CS Job Hunting (Role Prospects, Day in the Life)]({{"CS Job Hunting (Role Prospects, Day in the Life)" | slugify | prepend: "/lectures/#" | relative_url }})
+: **HW9 Due @ 1:59pm**{: .label .label-red}[HW9]({{ "/homework/#hw9" | relative_url }})
 
-Feb 28
-: **Lecture**{: .label .label-purple}[SCCs in Linear Time, Weighed Graphs]({{"SCCs in Linear Time, Weighed Graphs" | slugify | prepend: "/lectures/#" | relative_url }})
 
-Mar 18
-: **Lecture**{: .label .label-purple}[Dijkstra's Algorithm]({{"Dijkstra's Algorithm" | slugify | prepend: "/lectures/#" | relative_url }})
+Dec 01
+: **Lecture**{: .label .label-purple}[Final Review]({{"Final Review" | slugify | prepend: "/lectures/#" | relative_url }})
+
+Dec 05 - Dec 09
+: **Exam**{: .label .label-green}[Final Exam]({{"/exams/#final-exam" | relative_url }})

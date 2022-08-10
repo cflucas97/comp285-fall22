@@ -20,5 +20,10 @@ See [Homework 0: Logistics + Getting to Know You]({{ "/homework/#hw0" | absolute
 - Create a [Gradescope](https://www.gradescope.com/courses/413684) account and submit HW0 by Thursday, 8/25 @ 11:59 pm. 
   - See syllabus on [Blackboard](https://blackboard.ncat.edu/webapps/blackboard/execute/modulepage/view?course_id=_3571354_1) or [HW0]({{ "/homework/#hw0" | absolute_url }}) for access code if needed!
 
+#### Miscellaneous
+
+- CodePath 
+- Mock interviews
+- Meta recruiting
 
 {: .fs-5 }

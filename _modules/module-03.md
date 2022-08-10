@@ -1,19 +1,20 @@
 ---
-title: Sorting - How can you organize data?
+title: Sorting Algorithms
 ---
 
-Jan 24
-: **Lecture**{: .label .label-purple}[Master Theorem]({{"Master Theorem" | slugify | prepend: "/lectures/#" | relative_url }})
-
-
-Jan 25
-: **Homework Due @ 11:59pm**{: .label .label-red}[HW1]({{ "/homework/#hw1" | relative_url }})
-
-Jan 26
-: **Lecture**{: .label .label-purple}[Substitution Method and Selection Problem Intro.]({{"Substitution Method and Selection Problem Intro." | slugify | prepend: "/lectures/#" | relative_url }})
+Sept 06
+: **Lecture**{: .label .label-purple}[Algorithms using Heaps]({{"Algorithms using Heaps" | slugify | prepend: "/lectures/#" | relative_url }})
+: **HW1 Due @ 1:59pm**{: .label .label-red}[HW1]({{ "/homework/#hw1" | relative_url }})
 : **HW2 released**{: .label .label-blue}[HW2]({{ "/homework/#hw2" | relative_url }})
 
+Sept 08
+: **Lecture**{: .label .label-purple}[Sorts and Sort Properties]({{"Sorts and Sort Properties" | slugify | prepend: "/lectures/#" | relative_url }})
 
-Jan 28
-: **Lecture**{: .label .label-purple}[Median Selection]({{"Median Selection" | slugify | prepend: "/lectures/#" | relative_url }})
 
+Sept 13
+: **Lecture**{: .label .label-purple}[Divide and Conquer, Merge Sort]({{"Divide and Conquer, Merge Sort" | slugify | prepend: "/lectures/#" | relative_url }})
+
+Sept 15
+: **Lecture**{: .label .label-purple}[Master Theorem, O(n) Sorting]({{"Master Theorem, O(n\) Sorting" | slugify | prepend: "/lectures/#" | relative_url }})
+: **HW2 Due @ 1:59pm**{: .label .label-red}[HW2]({{ "/homework/#hw2" | relative_url }})
+: **HW3 released**{: .label .label-blue}[HW3]({{ "/homework/#hw3" | relative_url }})

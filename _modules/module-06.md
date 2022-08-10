@@ -1,19 +1,33 @@
 ---
-title: Graphs - How you model relations in the world and explore graphs?
+title: Advanced Algorithms
 ---
 
-Feb 16
-: **Lecture**{: .label .label-purple}[Universal Hash Families and Intro to Graphs]({{"Universal Hash Families and Intro to Graphs" | slugify | prepend: "/lectures/#" | relative_url }})
-: **Homework Due @ 11:59pm**{: .label .label-red}[HW4]({{ "/homework/#hw4" | relative_url }})
-: **HW5 released**{: .label .label-blue}[HW5]({{ "/homework/#hw5" | relative_url }})
+Nov 01
+: **Lecture**{: .label .label-purple}[Greedy Algorithms]({{"Greedy Algorithms" | slugify | prepend: "/lectures/#" | relative_url }})
 
 
-Feb 18
-: **Lecture**{: .label .label-purple}[Graph Representations and Depth-First Search]({{"Graph Representations and Depth-First Search" | slugify | prepend: "/lectures/#" | relative_url }})
+Nov 03
+: **Lecture**{: .label .label-purple}[Dynamic Programming I]({{"Dynamic Programming I" | slugify | prepend: "/lectures/#" | relative_url }})
+: **HW6 Due @ 1:59pm**{: .label .label-red}[HW6]({{ "/homework/#hw6" | relative_url }})
+: **HW7 released**{: .label .label-blue}[HW7]({{ "/homework/#hw7" | relative_url }})
 
 
-Feb 21
-: **Lecture**{: .label .label-purple}[Applications of Depth-First Search]({{"Applications of Depth-First Search" | slugify | prepend: "/lectures/#" | relative_url }})
+Nov 08
+: **Lecture**{: .label .label-purple}[Dynamic Programming II]({{"Dynamic Programming II" | slugify | prepend: "/lectures/#" | relative_url }})
 
-Feb 23
-: **Lecture**{: .label .label-purple}[Breadth-First Search]({{"Breadth-First Search" | slugify | prepend: "/lectures/#" | relative_url }})
+
+Nov 10
+: **Lecture**{: .label .label-purple}[Exhaustive Search & Backtracking I]({{"Exhaustive Search & Backtracking I" | slugify | prepend: "/lectures/#" | relative_url }})
+
+Nov 15
+: **Lecture**{: .label .label-purple}[Exhaustive Search & Backtracking II]({{"Exhaustive Search & Backtracking II" | slugify | prepend: "/lectures/#" | relative_url }})
+: **HW8 Due @ 1:59pm**{: .label .label-red}[HW8]({{ "/homework/#hw8" | relative_url }})
+: **HW9 released**{: .label .label-blue}[HW9]({{ "/homework/#hw9" | relative_url }})
+
+
+Nov 17
+: **Lecture**{: .label .label-purple}[P, NP, and More]({{"P, NP, and More" | slugify | prepend: "/lectures/#" | relative_url }})
+
+
+Nov 22
+: **Lecture**{: .label .label-purple}[Approximation Algorithms]({{"Approximation Algorithms" | slugify | prepend: "/lectures/#" | relative_url }})
