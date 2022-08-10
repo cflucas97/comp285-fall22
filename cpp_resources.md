@@ -22,7 +22,7 @@ A few of you asked during lecture for resources to brush up on some of the data 
 ## General C++ Resources
 
 - A lot of minor problems in C++ can be avoided or caught by simply coding with good style. What do we mean by good style? We mean using good names for variables, indenting your code correctly, etc. A great resource for this is [Stanford's CS106B Style Guide](https://web.stanford.edu/class/cs106b/resources/style_guide.html).
-- Another good resource for C++ is this [Debugging Guide](https://web.stanford.edu/class/cs106b/resources/debugging_guide.html)
+- Another good resource for C++ is this [general reference](https://en.cppreference.com/w/)
 - If you're already familiar with Python, you can try this [Python to C++ Guide](https://web.stanford.edu/class/cs106b/resources/python_to_cpp.html)
 
 
