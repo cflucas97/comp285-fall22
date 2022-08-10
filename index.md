@@ -39,7 +39,8 @@ seo:
 - 1 Midterm Exam: 20%
 - 1 Final Exam: 25%
 - Participation/In-Class Exercises: 5%
+  - The lowest 5 in-class exercises will be dropped.
 - Weekly Quizzes: 10%
   - The lowest two quizzes will be dropped, so each of your 9 quizzes compromise 1.111% of the final course grade.
-- Extra Credit: ~5%
+- Extra Credit: \~5%
 

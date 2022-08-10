@@ -2,7 +2,7 @@
   <h2 id="{{ page.title | slugify }}">Lecture {{ page.number }}: {{ page.title }}</h2>
   <span class="announcement-meta">
     {% if page.time %}
-    {%- assign lecture_length = 50 | times: 60 -%}
+    {%- assign lecture_length = 75 | times: 60 -%}
     {%- assign start_time = page.time | date: '%b %d, %l:%M %p' -%}
     {%- assign end_time = page.time | date: '%s' | plus: lecture_length | date: '%l:%M %p' -%}
 
