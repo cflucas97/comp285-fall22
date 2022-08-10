@@ -6,29 +6,26 @@ description: A listing of all the course staff members.
 
 ## Student Hours
 
-- Student hours schedule can be found on the [COMP 285 Calendar](https://calendar.google.com/calendar/embed?src=m5m78scf7panucng0a3fpdstik%40group.calendar.google.com&ctz=America%2FNew_York).
-- Student hours will take place mostly in-person, on-campus. However, a few select office hours will be made available through [Zoom](https://ncat.zoom.us/j/7927890938).
+- Student hours schedule can be found on the [COMP 285 Calendar](https://calendar.google.com/calendar/u/0/embed?src=q28b585afss5ag6t7793nc16l4@group.calendar.google.com&ctz=America/New_York).
+- Student hours will take place mostly in-person, on-campus. However, a few select office hours will be made available through [Zoom](https://ncat.zoom.us/j/9728635650).
 
 ## Professor Hours
 
-Given the restrictions to ERIC, all student hours for Week 0-5 will be held over [Zoom](https://ncat.zoom.us/j/9728635650)!
+This includes the normally "in-person" office hours of:
 
-This includes the normally "in-person" student hours of:
+- Tuesday: 3:30pm - 4:30pm ET in ERIC 331.
+- Thursday: 3:30pm - 4:30pm ET in ERIC 331.
 
-- Monday: 1:00pm - 3:00pm in ERIC 331.
-- Wednesday: 1:00pm - 3:00pm in ERIC 331.
-- Friday: 1:00pm - 3:00pm in ERIC 331.
+Additional online-only office hours are:
 
-Additional online-only student hours are:
+- Monday: 1:00pm - 2:00pm ET
+- Wednesday: 1:00pm - 2:00pm ET 
+- Friday: schedule by [appointment](https://calendly.com/cflucas-ncat/office-hours-1-1)
 
-- Tuesday: 3:00 pm - 4:00pm
-- Thursday: 3:00 pm - 4:00pm
 
 ## TA Student Hours
 
-- Monday: 1:00pm - 2:00pm in [Zoom](https://ncat.zoom.us/j/9728635650)
-- Wednesday: 1:00pm - 2:00pm in [Zoom](https://ncat.zoom.us/j/9728635650)
-- Friday: 1:00pm - 2:00pm in [Zoom](https://ncat.zoom.us/j/9728635650)
+**TBD**
 
 
 ### Regular Student Hours
@@ -36,11 +33,11 @@ TAs will open up their schedule to help students. Different TAs may have differe
 
 ## Staff Contact
 
-- The best way to reach the staff is by making a private post on [Piazza](https://piazza.com/north_carolina_at_state_university/spring2022/comp285/home).
+- The best way to reach the staff is by making a private post on [Piazza](https://piazza.com/ncat/fall2022/comp285).
 
-- You may also reach Professor Perez by emailing him directly at [laperez@ncat.edu](mailto:laperez@ncat.edu) with any questions or concerns that you do not with to post to [Piazza](https://piazza.com/north_carolina_at_state_university/spring2022/comp285/home).
+- You may also reach out by emailing directly at [cflucas@ncat.edu](mailto:cflucas@ncat.edu) with any questions or concerns that you do not with to post to [Piazza](https://piazza.com/ncat/fall2022/comp285).
 
-### Instructors
+### Instructor
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
 {% for staffer in instructors %}
