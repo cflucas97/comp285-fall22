@@ -22,8 +22,10 @@ See [Homework 0: Logistics + Getting to Know You]({{ "/homework/#hw0" | absolute
 
 #### Miscellaneous
 
-- CodePath 
-- Mock interviews
-- Meta recruiting
+- [Sign up](https://www.go.codepath.org/meta-NCAT) for CodePath by this Sunday, August 21, 2022 @ 11:59 PM! 
+  - _Great interview prep workshop series!_
+- Mock interviews with Meta engineers Oct. 10th-13th, sign-ups in mid-Sept.
+  - _For practice and feedback only; nothing on the line, performance is not documented anywhere!_
+
 
 {: .fs-5 }
