@@ -26,19 +26,18 @@ If we suspect academic dishonesty has occurred, we will ask you to explain/demon
 Academic integrity is critical to maintaining high standards within the academic community. All students
 enrolled in the College of Engineering are expected to demonstrate academic integrity when submitting course-related work (e.g., assignments, quizzes, individual projects, and exams). Academic integrity violations, when submitting course-related work, will result in the loss of credit for the specific assignment, quiz, individual project or exam, or a grade of “F” for the course.
 
-Repeated academic integrity violations may lead to dismissal from the University. To review the University’s Academic Dishonesty Policy, please see section I.F of the 2021-2022 Student Conduct Handbook, [here](https://www.ncat.edu/campus-life/pdfs/2021-2022-student-conduct-handbook.pdf)
+Repeated academic integrity violations may lead to dismissal from the University. To review the University’s Academic Dishonesty Policy, please see section I.F of the 2022-2023 Student Conduct Handbook, [here](https://www.ncat.edu/campus-life/pdfs/2022-2023-student-conduct-handbook.pdf)
 
 
 ## Submission Policy
 
-All homework submissions must be typed and submitted to [Gradescope](https://www.gradescope.com/courses/350304 
-) by 11:59 pm Pacific Time on the due date. We will not be accepting or grading any handwritten submissions. We highly recommend using LaTeX, and we will be posting the LaTeX source code of the homework assignments so you can borrow the LaTex code from the problem statements.
+All homework submissions must be typed, downloaded as a ZIP file and uploaded to [Gradescope](https://www.gradescope.com/courses/413684) by 1:59 pm Eastern Time on the due date. We will not be accepting or grading any handwritten submissions. 
 
 ## Homework Policy
 
-Homeworks will be assigned weekly. See the schedule for specific date. In general homework will be released after lecture on Mondays, and will cover material from the previous week as well as the Monday lecture.
+Homeworks will be assigned \~weekly. See the schedule below for specific days. In general homework will be released after lecture on either Tuesday and Thursday. If released on Tuesday, it will be due the following Thursday 9 days later. If released on Thursday, it will be due on the Tuesday after next 12 days later. They will include both conceptual and coding components. HW0 is the only exception that will be released on the first day of class and due one week later. The lowest homework score will be dropped from your grade. 
 
-Generally, the homework will be due on the following Sunday, *at 11:59pm*. They will include both conceptual and coding components. *The lowest 2 homeworks will be dropped from your grade*.
+The caveat to the homework drop policy is that students must put in an earnest attempt at each homework assignment; an unsubmitted, blank, or haphazard solution is not eligible to be dropped. The reason for this is that homework is the best tool we have to reinforce learning and it is in every student’s best interest to get that extra practice for all concepts covered. For example, if a student does not submit homework 4, we will drop the lowest homework score out of HW 0-3 and 5-9 then calculate the final homework grade on the remaining assignments, including the 0 score on homework 4.
 
 If you have extenuating circumstances that may warrant an extension, please email us as soon as possible. Advanced notice is valuable - the sooner the better! We will try to be as accommodating as possible.
 
@@ -48,8 +47,7 @@ If you have extenuating circumstances that may warrant an extension, please emai
 For each 24-hour period that homework is late, it will be eligible to receive 10% less points. For example, if you submitted 48 hours (2 days) late, your homework grade would be capped at 80%. After 5 days, please reach out to the course staff to discuss any extenuating circumstances so that we can work towards a solution. At that time, you’d only be eligible to receive up to 50% credit.
 
 ### Regrade Policy
-You may submit a regrade request for homework on [Gradescope](https://www.gradescope.com/courses/350304 
-). Please include a thorough description of the error that the grader made. You must submit a regrade request within 1 week of receiving your grade, by end of day (i.e. 11:59 pm). Some notes:
+You may submit a regrade request for homework on [Gradescope](https://www.gradescope.com/courses/413684). Please include a thorough description of the error that the grader made. You must submit a regrade request within 1 week of receiving your grade, by end of day (i.e. 11:59 pm). Some notes:
 
 - We reserve the right to regrade the entire assignment on a regrade request. This means you may lose more points on other problems if we discover grading errors in the other direction.
 - Your regrade request will go to the TA who graded your work originally and the instructor.
@@ -64,10 +62,9 @@ You may submit a regrade request for homework on [Gradescope](https://www.grades
 
 ## Participation / In-Class Exercises
 
-Each class will include a daily in-class exercise that will require individual or group participation and cover material from that class. Attendance and participation in in-class exercises will be tracked via in-class exercise submission. Submissions will be accepted for 24 hours after the lecture has ended. **You will need to complete at least 80% of the in-class exercises on time. The lowest 5 in-class exercises will be dropped from your grade.**
+Each class will include in-class exercises and/or questions that will require individual or group participation and cover material from that class. Attendance and participation in in-class exercises will be tracked via in-class exercise submission. Submissions will be accepted for 24 hours after the lecture has ended. **You will need to complete at least 80% of the in-class exercises on time. The lowest 5 in-class exercises will be dropped from your grade.**
 
-**In the first four weeks of the course**, everyone is required to attend my office hours at least once. This attendance will contribute to the Participation grade.
 
 ## Quiz Policy
 
-The first lecture of each week will also have a 10 minute mini-quiz on material from the previous week. We recognize it’s not ideal, but this will give us an indication on how well we taught each lecture’s topic, how everyone is doing, and whether or not we need to revisit certain topics. **The lowest 4 quizzes will be dropped from your grade**.
+The first lecture of each week will also have a 10 minute mini-quiz on material from the previous week. We recognize it’s not ideal, but this will give us an indication on how well we taught each lecture’s topic, how everyone is doing, and whether or not we need to revisit certain topics. **The lowest 2 quizzes will be dropped from your grade**.
