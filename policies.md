@@ -62,8 +62,7 @@ You may submit a regrade request for homework on [Gradescope](https://www.grades
 
 ## Participation / In-Class Exercises
 
-Each class will include in-class exercises and/or questions that will require individual or group participation and cover material from that class. Attendance and participation in in-class exercises will be tracked via in-class exercise submission. Submissions will be accepted for 24 hours after the lecture has ended. **You will need to complete at least 80% of the in-class exercises on time. The lowest 5 in-class exercises will be dropped from your grade.**
-
+Classes will include in-person exercises and/or questions that will require individual or group participation and cover material from that class. Attendance and participation in in-class exercises will be tracked via in-class submissions. **You will need to complete at least 80% of the in-class exercises. The lowest 5 in-class exercises will be dropped from your grade.**
 
 ## Quiz Policy
 
