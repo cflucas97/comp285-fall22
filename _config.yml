@@ -17,8 +17,8 @@ title: 'COMP 285'
 tagline: 'Analysis of Algorithms'
 description: 'North Carolina A&T University, Fall 2022'
 author: Chris Lucas
-baseurl: '/comp285-fall22' # the subpath of your site, e.g. /blog
-url: 'https://cflucas97.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '' # the subpath of your site, e.g. /blog
+url: 'https://www.comp285-fall22.ml' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 ga_tracking: G-87Q4Z33975
 
