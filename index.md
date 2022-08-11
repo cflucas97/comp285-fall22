@@ -21,7 +21,7 @@ seo:
 
 **Instructors:** Chris Lucas
 
-**Time:** Tue, Thurs 2:00 pm - 3:15 pm
+**Time:** Tue, Thurs 2:00 pm - 3:15 pm ET
 
 **Course Description:** This course covers analysis of efficient algorithms for sorting, searching, dynamic structure manipulation, path-finding, fast multiplication, and other problems. It introduces algorithmic techniques such as recursion, divide-and-conquer, and dynamic programming. It develops the following tools for algorithmic analysis: correctness proofs, algorithm synthesis, and discusses issues in non-computability. This course also overviews non-deterministic algorithms, and develops techniques to classify computationally hard problems. The concept of non-deterministic polynomial (NP)-completeness is introduced, and basic issues related to NP-completeness are discussed. Finally, we integrate a career preparation module throughout the course and focus on resume-building, mock technical interviews, and general job application process. 
 
