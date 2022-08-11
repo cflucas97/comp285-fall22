@@ -3,7 +3,7 @@ title: Trees
 ---
 
 Sept 20
-: **Lecture**{: .label .label-purple}[Trees]({{"Trees" | slugify | prepend: "/lectures/#" | relative_url }})
+: **Lecture**{: .label .label-purple}[Introduction to Trees]({{"Introduction to Trees" | slugify | prepend: "/lectures/#" | relative_url }})
 
 Sept 22
 : **Lecture**{: .label .label-purple}[Binary Trees]({{"Binary Trees" | slugify | prepend: "/lectures/#" | relative_url }})
