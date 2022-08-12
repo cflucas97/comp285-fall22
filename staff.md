@@ -13,8 +13,8 @@ description: A listing of all the course staff members.
 
 This includes the normally "in-person" office hours of:
 
-- Tuesday: 3:30pm - 4:30pm ET in ERIC 331.
-- Thursday: 3:30pm - 4:30pm ET in ERIC 331.
+- Tuesday: 3:30pm - 4:30pm ET in MARTIN 331.
+- Thursday: 3:30pm - 4:30pm ET in MARTIN 331.
 
 Additional online-only office hours are:
 
