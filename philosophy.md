@@ -19,5 +19,5 @@ Intuition for deep technical skills like algorithm design is a muscle that every
 - **Comparison is the thief of joy:** Everyone’s journey is uniquely theirs and no one should compare themselves to those around them. We meet ourselves where we are, set future goals based on our current status, capabilities, desires, and skills, and exercise grit and perseverance to achieve those goals. We see comparisons of goals, places in life, etc. are unwarranted and unproductive.
 
 
-*These are not set in stone! These can be modified or augmented as the classroom sees fit; the goal is for us all to align on core principles we each believe will aid in our collective success. Reach out to me if you have thoughts!*
+These are not set in stone. These can be modified or augmented as the classroom sees fit; the goal is for us all to align on core principles we each believe will aid in our collective success. Reach out to me if you have thoughts!
 
