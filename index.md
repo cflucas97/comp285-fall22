@@ -46,5 +46,5 @@ seo:
 
 Below is the grading scale we will use to determine grades. 
 
-![grading_scale](/assets/other/grading_scale.png){:height="500px" width="500px"}
+![grading_scale](/assets/other/grading_scale.png){:height="300px" width="300px"}
 
