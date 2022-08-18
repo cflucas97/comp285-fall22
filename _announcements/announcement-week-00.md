@@ -22,6 +22,7 @@ See [Homework 0: Logistics + Getting to Know You]({{ "/homework/#hw0" | absolute
 
 #### Miscellaneous
 
+- Chris's office hours to **begin week of 08/22!**
 - [Sign up](https://www.go.codepath.org/meta-NCAT) for CodePath by this Sunday, August 21, 2022 @ 11:59 PM! 
   - _Great interview prep workshop series!_
 - Mock interviews with Meta engineers Oct. 10th-13th, sign-ups in mid-Sept.
