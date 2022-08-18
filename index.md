@@ -44,3 +44,7 @@ seo:
   - The lowest two quizzes will be dropped, so each of your 9 quizzes compromise 1.111% of the final course grade.
 - Extra Credit: \~5%
 
+Below is the grading scale we will use to determine grades. 
+
+![grading_scale](/assets/other/grading_scale.png){:height="500px" width="500px"}
+

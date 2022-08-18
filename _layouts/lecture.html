@@ -18,7 +18,7 @@
     {% endif %}
   </span>
   <div>
-    {%if page.slides_pdf and page.slides_ppt %}
+    {%if page.slides_pdf or page.slides_ppt %} 
     <h5 id="{{ page.title | append: 'lecture-resources' | slugify }}">Lecture resources</h5>
     <ul>
       {%if page.quiz %}
@@ -32,7 +32,12 @@
       </li>
       {% endif %}
       <li>
-        Slides: [<a href="{{ page.slides_pdf }}">PDF</a>][<a href="{{ page.slides_ppt }}">PPT</a>]
+        {%if page.slides_pdf%} 
+        Slides: [<a href="{{ page.slides_pdf }}">PDF</a>]
+        {%endif%} 
+        {%if page.slides_ppt%} 
+        [<a href="{{ page.slides_ppt }}">PPT</a>] 
+        {%endif%}
       </li>
       {% if page.textbook %}
       <li>

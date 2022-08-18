@@ -6,7 +6,6 @@ location: Graham Hall 208
 notes: '/assets/lectures/lecture0.pdf'
 recording: https://ncat.zoom.us/rec/share/ivlL08XBs5hCk68UXHsy8Hg9te7xSzFIwhOhOGvR3_Q0wtezu_oVVBfpfZLVqW8D.njx9yNr2DCX5b0E0
 passcode: 'Zh4$Cmqf'
-slides_ppt: '/assets/lectures/lecture0.pptx'
 slides_pdf: '/assets/lectures/lecture0.pdf'
 textbook: CLRS sections 1.1, 1.2; CTCI sections 1, 4 (pages 4-8, 26-30)
 ---
