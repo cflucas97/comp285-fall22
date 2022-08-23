@@ -17,12 +17,14 @@ date: 2022-08-23
 
 #### Welcome Priya to Teaching Staff!
 
-- Please join me in welcoming Priya as one of our two TAs for the semester! You can check out her weekly office hour schedule in the "Meeting Times" section of the course website.
+- Please join me in welcoming Priya as one of our two TAs for the semester! 
+- Her weekly OH schedule is as follows: 
+  - Thursday: 11:00 AM -12:00 PM ET
+  - Friday: 10: 00 AM - 11:00 AM ET
 
 
 #### Miscellaneous
-
-- I've enjoyed starting to get to know some of you and learning of your interests and goals for your future! 
-- I look forward to meeting the rest of you and our continued conversations over the semester.
+- Apply to Google Tech Exchange program! (Due Monday 09/12) More info [here](https://buildyourfuture.withgoogle.com/programs/tech-exchange).
+- I've enjoyed starting to get to know some of you and learning of your interests and goals for your future! I look forward to meeting the rest of you and our continued conversations over the semester.
 
 {: .fs-5 }
