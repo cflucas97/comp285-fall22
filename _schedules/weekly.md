@@ -1,5 +1,9 @@
 ---
 timeline:
+  - '9:00 AM'
+  - '9:30 AM'
+  - '10:00 AM'
+  - '10:30 AM'
   - '11:00 AM'
   - '11:30 AM'
   - '12:00 PM'
@@ -39,6 +43,10 @@ schedule:
         location: Zoom
   - name: Thursday
     events:
+      - name: Office Hours [Priya]
+        start: 11:00 am
+        end: 12:00 PM 
+        location: TBD
       - name: Lecture
         start: 2:00 PM
         end: 3:15 PM
@@ -47,4 +55,10 @@ schedule:
         start: 3:30 PM
         end: 4:30 PM
         location: MARTIN 331
+  - name: Friday
+    events:
+      - name: Office Hours [Priya]
+        start: 10:00 AM
+        end: 11:00 AM
+        location: TBD
 ---

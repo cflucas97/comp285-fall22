@@ -25,7 +25,8 @@ Additional online-only office hours are:
 
 ## TA Student Hours
 
-**TBD**
+- Thursday: 11:00 am - 12:00 pm ET
+- Friday: 10:00 am - 11:00 am ET
 
 
 ### Regular Student Hours
