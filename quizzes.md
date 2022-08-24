@@ -6,4 +6,6 @@ description: A list of all course quizzes.
 
 ## Quizzes
 
-Check back starting 08/29 for \~weekly quizzes (with solutions)!
+We will hold each quiz for the first 10 minutes of every Tuesday lecture. These are closed note quizzes and each quiz can only be submitted once. 
+
+<!-- - [Quiz 0](https://forms.gle/Jpjsu1g8qxddxcKg9) -->
