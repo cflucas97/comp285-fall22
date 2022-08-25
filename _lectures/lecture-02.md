@@ -9,6 +9,7 @@ slides_pdf: '/assets/lectures/lecture2.pdf'
 #### No recording available. Apologies for the inconvenience.
 
 ##### More Resources
+- Live coding implementation of integer multiplcation (Repl.it) [[C++](https://replit.com/@cflucas/IntegerMultiplicationC#main.cpp)][[Python](https://replit.com/@cflucas/IntegerMultiplicationPython#main.py)]
 - C++ Coding Example for InsertionSort [[Online](https://onlinegdb.com/udJ5LxCab)][[Source]({{ "/assets/code/lecture2.cpp" | absolute_url }})]
 
 ##### Video Resources
