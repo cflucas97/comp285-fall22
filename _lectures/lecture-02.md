@@ -6,6 +6,8 @@ location: Graham Hall 208
 slides_pdf: '/assets/lectures/lecture2.pdf'
 ---
 
+#### No recording available. Apologies for the inconvenience.
+
 ##### More Resources
 - C++ Coding Example for InsertionSort [[Online](https://onlinegdb.com/udJ5LxCab)][[Source]({{ "/assets/code/lecture2.cpp" | absolute_url }})]
 
