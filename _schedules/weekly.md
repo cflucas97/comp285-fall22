@@ -34,7 +34,7 @@ schedule:
       - name: Office Hours [Chris]
         start: 3:30 PM
         end: 4:30 PM
-        location: MARTIN 331
+        location: ERIC 331
   - name: Wednesday
     events:
       - name: Office Hours [Chris]
@@ -54,7 +54,7 @@ schedule:
       - name: Office Hours [Chris]
         start: 3:30 PM
         end: 4:30 PM
-        location: MARTIN 331
+        location: ERIC 331
   - name: Friday
     events:
       - name: Office Hours [Priya]
