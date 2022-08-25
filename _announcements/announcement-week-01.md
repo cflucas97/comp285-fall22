@@ -20,7 +20,7 @@ date: 2022-08-23
 - Please join me in welcoming Priya as one of our two TAs for the semester! 
 - Her weekly OH schedule is as follows: 
   - Thursday: 11:00 AM -12:00 PM ET
-  - Friday: 10: 00 AM - 11:00 AM ET
+  - Friday: 10:00 AM - 11:00 AM ET
 
 
 #### Miscellaneous
