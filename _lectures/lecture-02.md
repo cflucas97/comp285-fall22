@@ -6,7 +6,7 @@ location: Graham Hall 208
 slides_pdf: '/assets/lectures/lecture2.pdf'
 ---
 
-#### No recording available. Apologies for the inconvenience.
+#### No recording available.
 
 ##### More Resources
 - Live coding implementation of integer multiplcation (Repl.it) [[C++](https://replit.com/@cflucas/IntegerMultiplicationC#main.cpp)][[Python](https://replit.com/@cflucas/IntegerMultiplicationPython#main.py)]
