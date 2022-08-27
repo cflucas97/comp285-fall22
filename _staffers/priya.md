@@ -2,7 +2,7 @@
 name: Priya Rachakonda
 role: Teaching Assistant
 email: lrachakonda@aggies.ncat.edu
-website: linkedin.com/in/chrisflucas/
+website: https://www.linkedin.com/in/priyarachakonda/
 photo: priya.jpeg
 ---
 

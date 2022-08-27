@@ -27,6 +27,10 @@ schedule:
         location: Zoom
   - name: Tuesday
     events:
+      - name: Office Hours [Tolu]
+        start: 12:00 PM
+        end: 1:00 PM
+        location: TBD
       - name: Lecture
         start: 2:00 PM
         end: 3:15 PM
@@ -60,5 +64,9 @@ schedule:
       - name: Office Hours [Priya]
         start: 10:00 AM
         end: 11:00 AM
+        location: TBD
+      - name: Office Hours [Tolu]
+        start: 12:00 PM
+        end: 1:00 PM
         location: TBD
 ---
