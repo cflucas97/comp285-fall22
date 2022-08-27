@@ -1,6 +1,6 @@
 <!-- ---
-title: Week 3 Announcement
-week: 3
+title: Week 2 Announcement
+week: 2
 date: 2022-08-29
 ---
 
