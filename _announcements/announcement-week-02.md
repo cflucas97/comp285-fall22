@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Week 3 Announcement
 week: 3
 date: 2022-08-29
@@ -18,3 +18,4 @@ See [Homework 1: Fun with Algorithms]({{ "/homework/#hw1" | absolute_url }}) for
 - For those interested in electric vehicles/autonomous driving out this slew of [Tesla internships](https://www.tesla.com/careers/search/?query=Internship&type=3&site=US)! _Both hardware AND software opportunities!_   
 
 {: .fs-5 }
+ -->
