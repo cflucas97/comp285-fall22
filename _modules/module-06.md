@@ -21,8 +21,8 @@ Nov 10
 
 Nov 15
 : **Lecture**{: .label .label-purple}[Exhaustive Search & Backtracking II]({{"Exhaustive Search & Backtracking II" | slugify | prepend: "/lectures/#" | relative_url }})
-: **HW8 Due @ 1:59pm**{: .label .label-red}[HW8]({{ "/homework/#hw8" | relative_url }})
-: **HW9 released**{: .label .label-blue}[HW9]({{ "/homework/#hw9" | relative_url }})
+: **HW7 Due @ 1:59pm**{: .label .label-red}[HW7]({{ "/homework/#hw8" | relative_url }})
+: **HW8 released**{: .label .label-blue}[HW8]({{ "/homework/#hw9" | relative_url }})
 
 
 Nov 17

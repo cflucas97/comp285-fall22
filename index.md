@@ -34,8 +34,8 @@ seo:
 
 **Course Grade:** The course grade will be based on the following components:
 
-- 10 Homework assignments: 40% (that is 4% per homework, see below)
-  - The lowest homework score will be dropped, so each of your 9 graded assignments compromise 4.444% of the final course grade.
+- 9 Homework assignments: 40% (that is 4.44% per homework, see below)
+  - The lowest homework score will be dropped, so each of your 8 graded assignments compromise 5% of the final course grade.
 - 1 Midterm Exam: 20%
 - 1 Final Exam: 25%
 - Participation/In-Class Exercises: 5%
