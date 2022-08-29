@@ -1,4 +1,4 @@
-<!-- ---
+---
 title: Week 2 Announcement
 week: 2
 date: 2022-08-29
@@ -15,7 +15,6 @@ See [Homework 1: Fun with Algorithms]({{ "/homework/#hw1" | absolute_url }}) for
 #### Careers
 - Apply to Apple's HBCU Scholars Program **Due 10/03**!  More info [here](https://www.tmcf.org/students-alumni/corp-scholar-programs/apple-hbcu-scholars/); thank you Tolani Smith!
 - Apply to Google Tech Exchange program **Due Monday 09/12**! More info [here](https://buildyourfuture.withgoogle.com/programs/tech-exchange).
-- For those interested in electric vehicles/autonomous driving out this slew of [Tesla internships](https://www.tesla.com/careers/search/?query=Internship&type=3&site=US)! _Both hardware AND software opportunities!_   
+- For those interested in electric vehicles/autonomous driving, check out this slew of [Tesla internships](https://www.tesla.com/careers/search/?query=Internship&type=3&site=US)! _Both hardware AND software opportunities!_   
 
 {: .fs-5 }
- -->
