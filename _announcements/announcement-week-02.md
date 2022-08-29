@@ -5,12 +5,15 @@ date: 2022-08-29
 ---
 
 #### Quizzes beginning!
-Quiz 0 will take place at the start of lecture on Tuesday 8/30! We will take the first 10 minutes of class to complete it. See our [Quiz Policy]({{ "/policies/#quiz-policy" | absolute_url }}) for details on how each quiz impact your grade.
+- Quiz 0 will take place at the start of lecture on Tuesday 8/30! We will take the first 10 minutes of class to complete it. 
+- See our [Quiz Policy]({{ "/policies/#quiz-policy" | absolute_url }}) for details on how each quiz impact your grade.
 
 
 #### HW1 Relased 
 
-See [Homework 1: Fun with Algorithms]({{ "/homework/#hw1" | absolute_url }}) for the full details! It is due Tuesday 9/6 @ 1:59PM ET! This is **the first coding assignment** so *start early* to catch issues. If you have questions, please make a post on [Piazza](https://piazza.com/class/l6fee1cmjpp5az)!
+- See [Homework 1: Fun with Algorithms]({{ "/homework/#hw1" | absolute_url }}) for the full details! It is due Tuesday 9/6 @ 1:59PM ET! This is **the first coding assignment** so *start early* to catch issues. If you have questions, please make a post on [Piazza](https://piazza.com/class/l6fee1cmjpp5az)!
+
+- Tomorrow (08/30) is the last day you can submit HW 0!
 
 #### Careers
 - Apply to Apple's HBCU Scholars Program **Due 10/03**!  More info [here](https://www.tmcf.org/students-alumni/corp-scholar-programs/apple-hbcu-scholars/); thank you Tolani Smith!
