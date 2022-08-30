@@ -47,4 +47,5 @@ as well as the ‘comp285-fall22’ Team Project. See the figure for more inform
 - Clicking it will give you the
 starter code, as well as set you up with an online.
 If the above does not work, you can also try going directly to the [project link](https://replit.com/@comp285-fall22/HW0).
+- How to render a homework assignment properly in Repl.it. [Video](/assets/other/replit.mov)
 
