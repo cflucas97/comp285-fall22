@@ -16,5 +16,11 @@ Aug 30
 
 
 Sept 01
+: **Lecture**{: .label .label-purple}[(Formal) Measuring Performance III]({{"(Formal) Measuring Performance III" | slugify | prepend: "/lectures/#" | relative_url }})
+
+Sept 06
 : **Lecture**{: .label .label-purple}[Stacks, Queues, Sets & Maps]({{"Stacks, Queues, Sets & Maps" | slugify | prepend: "/lectures/#" | relative_url }})
+: **HW1 Due @ 1:59pm**{: .label .label-red}[HW1]({{ "/homework/#hw1" | relative_url }})
+: **HW2 released**{: .label .label-blue}[HW2]({{ "/homework/#hw2" | relative_url }})
+
 

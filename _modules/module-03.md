@@ -2,10 +2,6 @@
 title: Sorting Algorithms
 ---
 
-Sept 06
-: **Lecture**{: .label .label-purple}[Algorithms using Heaps]({{"Algorithms using Heaps" | slugify | prepend: "/lectures/#" | relative_url }})
-: **HW1 Due @ 1:59pm**{: .label .label-red}[HW1]({{ "/homework/#hw1" | relative_url }})
-: **HW2 released**{: .label .label-blue}[HW2]({{ "/homework/#hw2" | relative_url }})
 
 Sept 08
 : **Lecture**{: .label .label-purple}[Sorts and Sort Properties]({{"Sorts and Sort Properties" | slugify | prepend: "/lectures/#" | relative_url }})
