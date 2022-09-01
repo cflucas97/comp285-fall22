@@ -24,9 +24,9 @@ Additional online-only office hours are:
 
 
 ## TA Student Hours
-- Tuesday: 12:00 pm - 1:00 pm ET
-- Thursday: 11:00 am - 12:00 pm ET
-- Friday: 10:00 am - 11:00 am ET, 12:00 pm - 1:00 pm ET
+- Tuesday: 12:00 pm - 1:00 pm ET [[Zoom](https://ncat.zoom.us/j/7374001586)]
+- Thursday: 11:00 am - 12:00 pm ET [[Zoom](https://ncat.zoom.us/j/3492562913)]
+- Friday: 10:00 am - 11:00 am ET [[Zoom](https://ncat.zoom.us/j/3492562913)], 12:00 pm - 1:00 pm ET [[Zoom](https://ncat.zoom.us/j/7374001586)]
 
 
 ### Regular Student Hours
