@@ -1,12 +1,10 @@
----
-title: (Formal) Measuring Performance III
-number: 4
-time: 2022-09-01 14:00
+<!-- ---
+title: Stacks, Queues, Sets and Maps
+number: 5
+time: 2022-09-06 14:00
 location: Graham Hall 208
-slides_pdf: '/assets/lectures/lecture4.pdf'
+slides_pdf: '/assets/lectures/lecture5.pdf'
 ---
-
-#### No recording available.
 
 ##### Video Resources
 
@@ -14,3 +12,4 @@ slides_pdf: '/assets/lectures/lecture4.pdf'
 - [Additional Examples (Section 2.5)](https://www.youtube.com/watch?v=VXQ2p6V5ccQ&list=PLEGCF-WLh2RLHqXx6-GZr_w7LgqKDXxN_&index=12)
 
 
+ -->
