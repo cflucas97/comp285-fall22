@@ -1,23 +1,30 @@
 ---
 title: Week 2 Announcement
 week: 2
-date: 2022-08-29
+date: 2022-08-23
 ---
 
-#### Quizzes beginning!
-- Quiz 0 will take place at the start of lecture on Tuesday 8/30! We will take the first 10 minutes of class to complete it. 
-- See our [Quiz Policy]({{ "/policies/#quiz-policy" | absolute_url }}) for details on how each quiz impact your grade.
+#### HW0 Due Thursday 08/25 @ 11:59 PM
+
+- This is (most likely) the simplest homework of the semester; it's worth \~4% of your final grade!  
+
+#### HW1 To be Released by EoD Thursday 08/25, Due 09/06 @ 1:59 PM
+
+- It will become available in the homework section of the course website! 
+- It will contain both written and coding portions. 
+- We recommend starting early to work out any bugs you may encounter with the coding components.
 
 
-#### HW1 Relased 
+#### Welcome Priya to Teaching Staff!
 
-- See [Homework 1: Fun with Algorithms]({{ "/homework/#hw1" | absolute_url }}) for the full details! It is due Tuesday 9/6 @ 1:59PM ET! This is **the first coding assignment** so *start early* to catch issues. If you have questions, please make a post on [Piazza](https://piazza.com/class/l6fee1cmjpp5az)!
+- Please join me in welcoming Priya as one of our two TAs for the semester! 
+- Her weekly OH schedule is as follows: 
+  - Thursday: 11:00 AM -12:00 PM ET
+  - Friday: 10:00 AM - 11:00 AM ET
 
-- Tomorrow (08/30) is the last day you can submit HW 0!
 
-#### Careers
-- Apply to Apple's HBCU Scholars Program **Due 10/03**!  More info [here](https://www.tmcf.org/students-alumni/corp-scholar-programs/apple-hbcu-scholars/); thank you Tolani Smith!
-- Apply to Google Tech Exchange program **Due Monday 09/12**! More info [here](https://buildyourfuture.withgoogle.com/programs/tech-exchange).
-- For those interested in electric vehicles/autonomous driving, check out this slew of [Tesla internships](https://www.tesla.com/careers/search/?query=Internship&type=3&site=US)! _Both hardware AND software opportunities!_   
+#### Miscellaneous
+- Apply to Google Tech Exchange program! (Due Monday 09/12) More info [here](https://buildyourfuture.withgoogle.com/programs/tech-exchange).
+- I've enjoyed starting to get to know some of you and learning of your interests and goals for your future! I look forward to meeting the rest of you and our continued conversations over the semester.
 
 {: .fs-5 }
