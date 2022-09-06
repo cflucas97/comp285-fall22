@@ -14,3 +14,7 @@ passcode: "+lL3kw+U"
 - [Hash sets/maps](https://www.youtube.com/watch?v=shs0KM3wKv8)
 - [Hashing and cybersecurity](https://www.youtube.com/watch?v=b4b8ktEV4Bg&t=318s)
 
+#### More Resources
+- Live coding implementation of parentheses (Repl.it) [[C++](https://replit.com/@cflucas/ParenthesesC#main.cpp)]
+
+
