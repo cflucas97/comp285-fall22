@@ -1,15 +1,16 @@
-<!-- ---
+---
 title: Stacks, Queues, Sets and Maps
 number: 5
 time: 2022-09-06 14:00
 location: Graham Hall 208
 slides_pdf: '/assets/lectures/lecture5.pdf'
+recording: "https://ncat.zoom.us/rec/share/cKZU_lbrJU5FwWI2VaVP5kqpKgcEa80tx8BldKsUxfMIeP-4nEEWe_W8yVXCvca2.y9zQowKnjsKjL6wr"
+passcode: "+lL3kw+U"
 ---
 
 ##### Video Resources
 
-- [Big-Omega and Big-Theta Notation (Section 2.4)](https://www.youtube.com/watch?v=-IanHYk6tU4&list=PLEGCF-WLh2RLHqXx6-GZr_w7LgqKDXxN_&index=11)
-- [Additional Examples (Section 2.5)](https://www.youtube.com/watch?v=VXQ2p6V5ccQ&list=PLEGCF-WLh2RLHqXx6-GZr_w7LgqKDXxN_&index=12)
+- [Stacks and queues](https://www.youtube.com/watch?v=wjI1WNcIntg)
+- [Hash sets/maps](https://www.youtube.com/watch?v=shs0KM3wKv8)
+- [Hashing and cybersecurity](https://www.youtube.com/watch?v=b4b8ktEV4Bg&t=318s)
 
-
- -->
