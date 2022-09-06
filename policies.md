@@ -31,7 +31,7 @@ Repeated academic integrity violations may lead to dismissal from the University
 
 ## Submission Policy
 
-All homework submissions must be typed, downloaded as a ZIP file and uploaded to [Gradescope](https://www.gradescope.com/courses/413684) by 1:59 pm Eastern Time on the due date. We will not be accepting or grading any handwritten submissions. 
+All homework submissions must be typed, downloaded as a ZIP file and uploaded to [Gradescope](https://www.gradescope.com/courses/413684) by 11:59 pm Eastern Time on the due date. We will not be accepting or grading any handwritten submissions. 
 
 ## Homework Policy
 
