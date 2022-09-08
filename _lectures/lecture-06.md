@@ -11,6 +11,7 @@ passcode: "$$?6Ra?k"
 
 ##### More Resources
 - Hash sets/maps intersecting strings implementation [[C++](https://replit.com/@cflucas/HashSetsAndMaps#main.cpp)]
+- Sorting visualization tool [[link](https://visualgo.net/en/sorting))]
 
 ##### Video Resources
 - [QuickSort: Overview (Section 5.1)](https://www.youtube.com/watch?v=ETo1cpLN7kk&list=PLEGCF-WLh2RLHqXx6-GZr_w7LgqKDXxN_&index=24)
