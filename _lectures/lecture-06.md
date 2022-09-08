@@ -14,6 +14,7 @@ passcode: "$$?6Ra?k"
 - Sorting visualization tool [[link](https://visualgo.net/en/sorting)]
 
 ##### Video Resources
+- [Algorithms overview](https://www.youtube.com/watch?v=rL8X2mlNHPM) (has a nice sorting visualization - _thank you Tiffani!_)
 - [QuickSort: Overview (Section 5.1)](https://www.youtube.com/watch?v=ETo1cpLN7kk&list=PLEGCF-WLh2RLHqXx6-GZr_w7LgqKDXxN_&index=24)
 - [QuickSort Analysis (Part 1) (Section 5.5, part 1)](https://www.youtube.com/watch?v=sToWtKSYlMw&list=PLEGCF-WLh2RLHqXx6-GZr_w7LgqKDXxN_&index=27)
 - [QuickSort Analysis (Part 2) (Section 5.5, part 2)](https://www.youtube.com/watch?v=4t_Y-aGLkok&list=PLEGCF-WLh2RLHqXx6-GZr_w7LgqKDXxN_&index=28])
