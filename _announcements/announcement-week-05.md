@@ -8,6 +8,10 @@ date: 2022-09-12
 - The next quiz will take place at the start of lecture on Tuesday 9/13! We will take the first 10 minutes of class to complete it. 
 - See our [Quiz Policy]({{ "/policies/#quiz-policy" | absolute_url }}) for details on how each quiz impact your grade.
 
+#### Extra Credit Opportunities!
+- Fill out midpoint(ish) survey [here](https://forms.gle/uGm2A2wLa2DRZZAQA); if >= 80% of the class completes the survey, everyone will receive +1% added to their final grades.
+- Sign up [here](https://piazza.com/interview/facebook/ci_l7z1gadhg8v5f2?inv=link_l80daoxvgmf467) for a _no stakes_, mock interview with a Meta engineer (10/10-10/13). +0.5% added to your final grade for completing. 
+
 
 #### HW2 Due 
 
