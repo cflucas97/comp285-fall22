@@ -11,6 +11,7 @@ passcode: "0jWh?RJ5"
 ##### More Resources
 - Cracking the Coding Interview section on Behavioral Interviews pages 32-37 [link](https://github.com/Avinash987/Coding/blob/master/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf)
 - C++ Coding Example for MergeSort [[Online](https://onlinegdb.com/bojiILd6t)]
+- Sorting visualization tool [link](https://visualgo.net/en/sorting)
 
 ##### Video Resources
 - Behavioral Interviews (Clement Mihailescu [[link]](https://www.youtube.com/watch?v=6rW01g6Obwk))
