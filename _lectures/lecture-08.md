@@ -4,7 +4,7 @@ number: 8
 time: 2022-09-15 14:00
 location: Graham Hall 208
 slides_pdf: '/assets/lectures/lecture8.pdf'
-recording: ""
+recording: "https://ncaandt-my.sharepoint.com/:v:/g/personal/cflucas_ncat_edu/EW7WW4RshKdDjgpwn5VW3foBg7Dh-CJM_Frrm5XVapGVYQ?e=eaUUAz"
 passcode: ""
 ---
 
