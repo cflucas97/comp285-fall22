@@ -4,8 +4,8 @@ number: 10
 time: 2022-09-22 14:00
 location: Graham Hall 208
 slides_pdf: '/assets/lectures/lecture10.pdf'
-recording: "N/A"
-passcode: "N/A"
+recording: "https://ncat.zoom.us/rec/share/jNXO7Im_4CSfs9RsaQg0dYdUnRt2uNwd2OFhqv8raGOzyhyJUcgb9eAE1EsWd6n8.lbhnh7iiiwC01B6H"
+passcode: "#2Ns5.md"
 ---
 
 ##### More Resources
