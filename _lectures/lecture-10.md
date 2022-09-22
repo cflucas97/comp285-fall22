@@ -7,8 +7,11 @@ slides_pdf: '/assets/lectures/lecture10.pdf'
 recording: "N/A"
 passcode: "N/A"
 ---
+
 ##### More Resources
 - In class activity [[link](https://replit.com/@comp285-fall22/922-Binary-Trees#main.cpp)]
+
+
 ##### Video Resources
 - [Binary Search Trees](https://www.youtube.com/watch?v=pYT9F8_LFTM)
 - [Data Structures Overview (Section 10.1)](https://www.youtube.com/watch?v=cMrQxxrKg8I&list=PLEGCF-WLh2RJ5W-pt-KE9GUArTDzVwL1P&index=16)
