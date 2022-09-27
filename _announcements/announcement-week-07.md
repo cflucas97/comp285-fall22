@@ -16,6 +16,9 @@ date: 2022-09-26
 - If you have questions, please make a post on [Piazza](https://piazza.com/class/l6fee1cmjpp5az)!
 - Homework 2 grades released! Check Blackboard and Gradescope for final grades.
 
+#### Quiz!
+- Quiz 4 will take place in class on Tuesday!
+
 #### Extra Credit Opportunities!
 - Fill out midpoint(ish) survey [here](https://forms.gle/uGm2A2wLa2DRZZAQA); if >= 80% of the class completes the survey, everyone will receive +1% added to their final grades.
 - Sign up [here](https://piazza.com/interview/facebook/ci_l7z1gadhg8v5f2?inv=link_l80daoxvgmf467) for a _no stakes_, mock interview with a Meta engineer (10/10-10/13). +0.5% added to your final grade for completing. 
