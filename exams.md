@@ -19,9 +19,9 @@ We will have two exams this semester. The midterm will make up 20% of the total 
 - Material from [Homework 0](/homework/#hw0) to [Homework 4](/homework/#hw4)
 - Material from Quiz 0 to Quiz 4
 
-<!-- ### Practice Midterm
+### Practice Midterm
 - [Questions](/assets/midterm/practice_midterm.pdf)
-- [Solutions](/assets/midterm/practice_midterm_solutions.pdf) -->
+- [Solutions](/assets/midterm/practice_midterm_solutions.pdf)
 
 </div>
 
