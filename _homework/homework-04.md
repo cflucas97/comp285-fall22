@@ -1,6 +1,6 @@
 ---
 number: 4
-title: Formal Fun with Big-Oh and Recursion
+title: Fun with Trees
 release: 2022-09-27 20:00
 due: 2022-10-13 23:59
 pdf: "/assets/homework/hw4/hw4.pdf"
