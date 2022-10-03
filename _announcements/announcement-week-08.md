@@ -6,6 +6,7 @@ date: 2022-10-03
 
 #### Midterm approaching!
 - Our midterm will take place on Thursday 10/06 from 2-3:15pm in Graham Hall 208.
+- Practice midterm was released! [link](https://www.comp285-fall22.ml/exams/)
 - Come to Tuesday's lecture (10/04) with topics and questions you want to review!
 
 #### Homework
