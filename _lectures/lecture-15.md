@@ -4,8 +4,8 @@ number: 15
 time: 2022-10-18 14:00
 location: Graham Hall 208
 slides_pdf: '/assets/lectures/lecture15.pdf'
-recording: ""
-passcode: ""
+recording: "https://ncat.zoom.us/rec/share/aZXj_9obYz8kSilsRY57IFfChKspxbVr8yC3flYAF4Y5JnE0thPMvvvPQ7roB_8U.2YyTPtmBDFi1kLbv"
+passcode: ".1i3h4&!"
 ---
 
 ##### More resources
