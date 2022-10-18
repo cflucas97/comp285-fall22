@@ -6,7 +6,7 @@ date: 2022-10-17
 
 #### Quiz 5
 - As always, our next quiz will take place in Tuesday's lecture (10/18).
-- The quiz will be on Graphs!
+- The quiz will be on Graphs and BSTs!
 
 #### Homework
 
