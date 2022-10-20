@@ -4,8 +4,8 @@ number: 16
 time: 2022-10-20 14:00
 location: Graham Hall 208
 slides_pdf: '/assets/lectures/lecture16.pdf'
-recording: ""
-passcode: ""
+recording: "https://ncat.zoom.us/rec/share/OPHrmvzohoe0aYUQSXMQ2k-q_bKb2CD8ngpU5qK9zloIwKDji7VrH1d8u6MoAb6w.2CbfBF7Efb9E7On8"
+passcode: ".P0RMJ@L"
 ---
 
 ##### Video Resources
