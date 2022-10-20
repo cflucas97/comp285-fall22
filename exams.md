@@ -38,5 +38,5 @@ We will have two exams this semester. The midterm will make up 20% of the total 
 </div>
 
 ```markdown
-Date and time TBD
+2:00pm - 4:00pm on Tuesday, December 6th, 2022.
 ```
