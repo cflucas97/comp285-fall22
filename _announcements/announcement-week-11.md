@@ -20,18 +20,16 @@ date: 2022-10-24
 
 #### Career
 Check out the following opportunities!
-
-- https://app.joinhandshake.com/stu/jobs/6881970
-- https://app.joinhandshake.com/stu/jobs/6802174
-- https://app.joinhandshake.com/stu/jobs/6927804
-- https://app.joinhandshake.com/stu/jobs/6905706
-- https://app.joinhandshake.com/stu/jobs/6623388
-- https://app.joinhandshake.com/stu/jobs/7000005
-- https://app.joinhandshake.com/stu/jobs/6881905
-- https://app.joinhandshake.com/stu/jobs/6944918
-- https://app.joinhandshake.com/stu/jobs/6937222
-- https://app.joinhandshake.com/stu/jobs/6890166
-- https://ripplematch.com/index?r=Z68zoX
+- https://tinyurl.com/lockheadMartin
+- https://tinyurl.com/LThreeHarris
+- https://tinyurl.com/CollinsAerospaceInternship
+- https://tinyurl.com/Sp3ctrumInternship 
+- https://tinyurl.com/linkOneTwoThree
+- https://tinyurl.com/GarminInternship201021
+- https://tinyurl.com/Amamamamamazon
+- https://tinyurl.com/UFSInc
+- https://tinyurl.com/Viaviaiviasat
+- https://tinyurl.com/MorganStanleyInternnns
 
 
 
