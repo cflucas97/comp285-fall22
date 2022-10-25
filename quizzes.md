@@ -13,6 +13,6 @@ We will hold each quiz for the first 10 minutes of every Tuesday lecture. These 
 - [Quiz 2](https://forms.gle/mo6njnNsEQiPUj2L9), [Walkthrough](https://ncaandt-my.sharepoint.com/:v:/g/personal/cflucas_ncat_edu/EQOZlFfZDV5KhutPBGj0dbAB4wDjHMB3ojp9LGS2ij0s9A?e=LkXF3d)
 - [Quiz 3](https://forms.gle/Parvq2cn1SigrYcV9), [Walkthrough](https://ncaandt-my.sharepoint.com/:v:/g/personal/cflucas_ncat_edu/EbDa4bQGTfBJqYCUcPHSXvIBQPXZrrUv7NEvEr1uGEFSHQ)
 - [Quiz 4](https://forms.gle/JQwJnGqQ71CcghSo6), [Walkthrough](https://ncaandt-my.sharepoint.com/:v:/g/personal/cflucas_ncat_edu/EczrXmhpbzdGu09AnyQuwucBsMzUc2sUffA1LaHONhcJlw?e=jk5MwZ)
-- [Quiz 5](https://forms.gle/AkebSSFSJDhycXsz8)
+- [Quiz 5](https://forms.gle/AkebSSFSJDhycXsz8), [Walkthrough](https://drive.google.com/file/d/1VOqyxVul0ejSwbY3t02EIDdrdtkEiQha/view?usp=sharing)
 - [Quiz 6](https://forms.gle/uxFZinqiN1a5o7vS6)
  
