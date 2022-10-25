@@ -5,7 +5,7 @@ date: 2022-10-24
 ---
 
 #### Quiz 6
-- As always, our next quiz will take place in Tuesday's lecture (10/18).
+- As always, our next quiz will take place in Tuesday's lecture (10/25).
 - The quiz will be on traversing Graphs!
 
 #### Homework
