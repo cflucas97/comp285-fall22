@@ -19,6 +19,8 @@ date: 2022-10-24
 - Sign up [here](https://calendly.com/cflucas-ncat/extra-credit-technical-interview-practice?back=1&month=2022-10) for mock interview practice with me (on Wednesdays)! +0.5% for each time you come in and each student can earn up to 1%. 
 
 #### Career
+Stay connected to Netflix for opportunities! Fill out [this form](https://airtable.com/shruWMEoUhdgMpbUW).
+
 Check out the following opportunities!
 - https://tinyurl.com/lockheadMartin
 - https://tinyurl.com/LThreeHarris
