@@ -1,6 +1,6 @@
 ---
 number: 5
-title: Fun with Trees
+title: Fun with Graphs
 release: 2022-10-13 20:00
 due: 2022-10-25 23:59
 pdf: "/assets/homework/hw5/hw5.pdf"
