@@ -1,4 +1,4 @@
-<!-- ---
+---
 title: Network Flow
 number: 18
 time: 2022-10-27 14:00
@@ -13,4 +13,3 @@ passcode: ""
 - [Network Flows: Max-Flow Min-Cut Theorem (& Ford-Fulkerson Algorithm)](https://www.youtube.com/watch?v=oHy3ddI9X3o)
 - [Ford-Fulkerson in 5-minutes - Step by step example](https://www.youtube.com/watch?v=Tl90tNtKvxs)
 
- -->
