@@ -4,8 +4,8 @@ number: 18
 time: 2022-10-27 14:00
 location: Graham Hall 208
 slides_pdf: '/assets/lectures/lecture18.pdf'
-recording: ""
-passcode: ""
+recording: "https://ncat.zoom.us/rec/share/hAzTOF4OL6my_-eU0TdpsMT2rbj3c6RUFIJ89r8CWoTcOu0EFq_Jf_Yr6v1Ow4IV.Qx6r1s8U7bOzrkQi"
+passcode: "@LSaYn5^"
 ---
 
 ##### Video Resources
