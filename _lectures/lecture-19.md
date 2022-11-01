@@ -4,8 +4,8 @@ number: 19
 time: 2022-11-01 14:00
 location: Graham Hall 208
 slides_pdf: '/assets/lectures/lecture19.pdf'
-recording: ""
-passcode: ""
+recording: "https://ncat.zoom.us/rec/share/O-o8XRZK_XcZs7UNr2LEcr49ZbNayFmAHBv44NBYCs8NJM-37nl68jJt7Uh_MXXf.xdtm7iURhsfLzUuc"
+passcode: "E3Vh6f@x"
 ---
 
 ##### More resources
