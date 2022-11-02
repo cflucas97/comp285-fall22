@@ -19,6 +19,7 @@ date: 2022-10-31
 - We're working on Homework 5 grades, should be released by EoW!
 
 #### Extra Credit Opportunities!
+- Sign up [here](https://piazza.com/interview/facebook/ci_l9x82hubr9r3zr?inv=link_l9x86v6tkjt4u3) for Meta mock interview for +1%!
 - Sign up [here](https://calendly.com/cflucas-ncat/extra-credit-technical-interview-practice?back=1&month=2022-10) for mock interview practice with me (on Wednesdays)! +0.5% for each time you come in and each student can earn up to 1%. 
 
 #### Career
