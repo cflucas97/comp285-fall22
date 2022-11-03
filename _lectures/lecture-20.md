@@ -4,8 +4,8 @@ number: 20
 time: 2022-11-03 14:00
 location: Graham Hall 208
 slides_pdf: '/assets/lectures/lecture20.pdf'
-recording: ""
-passcode: ""
+recording: "https://ncat.zoom.us/rec/share/bl3Wy_k5G4syRa5WkA6Bw905X2nWn-YjY5Bz22bCf0l5qdgFIWtWwGJDCUe9paZj.nUuLuNGtQLFwhk_V"
+passcode: "x#1!?9U7"
 ---
 
 ##### Video Resources
