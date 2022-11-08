@@ -4,8 +4,8 @@ number: 21
 time: 2022-11-08 14:00
 location: Graham Hall 208
 slides_pdf: '/assets/lectures/lecture21.pdf'
-recording: ""
-passcode: ""
+recording: "https://ncat.zoom.us/rec/share/1drBKU7Z1hwn6o1u1rjPwgMGLkE8IXsf3fK_DcZcBW29cK-XuxDBqz7SD8fOY6HG.GhdJGBSH0UM7OEmT"
+passcode: "ztx1+yD*"
 ---
 
 ##### Video Resources
