@@ -26,6 +26,11 @@
         Walkthrough: [<a href="{{ page.walkthrough | absolute_url }}">Video</a>]
       </li>
       {% endif %}
+      {% if page.walkthrough2 %}
+      <li>
+        Walkthrough Pt. 2: [<a href="{{ page.walkthrough2 | absolute_url }}">Video</a>]
+      </li>
+      {% endif %}
       {% if page.solution %}
       <li>
         Solution: [<a href="{{ page.solution | absolute_url }}">Repl.it</a>]{% if page.solution_walkthrough %}[<a href="{{ page.solution_walkthrough }}">YouTube</a>] {% endif %}
