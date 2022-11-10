@@ -1,4 +1,4 @@
-<!-- ---
+---
 title: Exhaustive Search + Backtracking I
 number: 22
 time: 2022-11-10 14:00
@@ -8,11 +8,3 @@ recording: ""
 passcode: ""
 ---
 
-##### More resources
--
-
-##### Video Resources
-- 
-- 
-
- -->
