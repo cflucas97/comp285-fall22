@@ -10,7 +10,7 @@ date: 2022-11-14
 
 #### Homework
 
-- Homework 7 is due tonight (11/15) @ 11:59PM ET.
+- Homework 7 is due tomorrow (11/15) @ 11:59PM ET.
 - Please review the [late policy]({{ "/policies/#late-policy"}}).
 - If you have questions, please make a post on [Piazza](https://piazza.com/class/l6fee1cmjpp5az)!
 
