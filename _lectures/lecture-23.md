@@ -8,5 +8,7 @@ recording: "https://ncat.zoom.us/rec/share/sW9K8bSLLSZIFrhbWOLPkZ1EZMaySr0I9n_Of
 passcode: "Hfv5kI+S"
 ---
 
+#### More resources
+- Live coding [[Dice Sum](https://replit.com/@cflucas/DiceSum#main.cpp)], [[All Subsets](https://replit.com/@cflucas/AllSubsets#main.cpp)]
 
 

@@ -8,3 +8,5 @@ recording: "https://ncat.zoom.us/rec/share/lrSYmgBIeEySvpEBlwcFrsTZLv5P6jfjrek4q
 passcode: "X.%umT+0"
 ---
 
+#### More resources
+- Live coding [[Generate all binary/decimal](https://replit.com/@cflucas/ExhaustiveSearchAndBacktracking#main.cpp)]
