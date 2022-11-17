@@ -5,7 +5,7 @@ date: 2022-11-14
 ---
 
 #### Final Survey
-- Fill out [this suvery](https://docs.google.com/forms/d/e/1FAIpQLSe_8x9x7eF98dCcUpmKg26Tvv9y02jNyTvx5v-ZEnRysSeWkA/viewform) for +1% to your final grade (iff >= 34 students complete it)
+- Fill out [this suvery](https://docs.google.com/forms/d/e/1FAIpQLSe_8x9x7eF98dCcUpmKg26Tvv9y02jNyTvx5v-ZEnRysSeWkA/viewform) for +1% to your final grade (if >= 34 students complete it)
 
 #### Quiz 9
 - As always, our next quiz will take place in Tuesday's lecture (11/15).
