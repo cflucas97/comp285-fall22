@@ -8,11 +8,5 @@ recording: ""
 passcode: ""
 ---
 
-##### More resources
--
-
-##### Video Resources
-- 
-- 
 
  -->
