@@ -4,8 +4,8 @@ number: 24
 time: 2022-11-17 14:00
 location: Graham Hall 208
 slides_pdf: '/assets/lectures/lecture24.pdf'
-recording: ""
-passcode: ""
+recording: "https://ncat.zoom.us/rec/share/OieXbbj15AI2bHMNI8Tor9uKLfc-OdkCGXpQHgCSKkfdaSTy-T95plwiFPcuFKGQ.KCo6lvZaZ-Al4Hom"
+passcode: "?etqfP9s"
 ---
 
 ##### Video Resources
