@@ -17,5 +17,5 @@ We will hold each quiz for the first 10 minutes of every Tuesday lecture. These 
 - [Quiz 6](https://forms.gle/uxFZinqiN1a5o7vS6), [Walkthrough](https://drive.google.com/file/d/1x-f6RJhq494lC1ovSxRaJvmIAJIlVPPE/view?usp=sharing)
 - [Quiz 7](https://forms.gle/SdM3H1MECChJGtQ4A), [Walkthrough](https://drive.google.com/file/d/1pwuQSi2dbPvGB6jBYkiXbq4XNwKHcnAm/view?usp=sharing)
 - [Quiz 8](https://forms.gle/kardx5nbhwzSmD4R9), [Walkthrough](https://drive.google.com/file/d/1rNfxdQmTUFcwI5e7jm2x9APrHHT7dXR8/view?usp=sharing)
-- [Quiz 9](https://forms.gle/ehBsv5AMrw4joeqk8)
+- [Quiz 9](https://forms.gle/ehBsv5AMrw4joeqk8), [Walkthrough](https://drive.google.com/file/d/1zr_yoMreiJxkXh3ZvkWLmQ5OV-LzNlZd/view?usp=sharing)
 - [Quiz 10](https://forms.gle/o4vQmTFrAsUyKUvA9)
