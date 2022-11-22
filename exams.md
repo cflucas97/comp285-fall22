@@ -35,6 +35,15 @@ We will have two exams this semester. The midterm will make up 20% of the total 
 
 
 ## Final Exam
+
+### What's covered?
+- Material from [Lecture 0](/lectures/#welcome-course-logistics) to [Lecture 27](/lectures/)
+- Material from [Homework 0](/homework/#hw0) to [Homework 8](/homework/#hw8)
+- Material from Quiz 0 to Quiz 10
+
+### Practice Final
+- [Questions](/assets/final/practice_final.pdf)
+
 </div>
 
 ```markdown
