@@ -8,7 +8,7 @@ date: 2022-11-21
 
 #### Quiz 10
 - As always, our next quiz will take place in Tuesday's lecture (11/22).
-- The quiz will be on Exhaustive Search + Backtracking and Complexity Theory (P, NP, etc.) !
+- The quiz will be on Exhaustive Search + Backtracking and Complexity Theory (P, NP)!
 
 #### Homework 8
 
