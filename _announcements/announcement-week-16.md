@@ -4,6 +4,12 @@ week: 16
 date: 2022-11-28
 ---
 
+#### Final Review Week
+- Come with your questions!
+- Tuesday's lecture will review the first half of the course.
+- Thursday's lecture will review the second half of the course.
+
+
 #### No Quiz!
 - We will not be having a quiz in Tuesday's lecture. 
 - We are reviewing the first half and second half of the course material across the two lectures this week.
