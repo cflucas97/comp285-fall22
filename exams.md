@@ -45,6 +45,9 @@ We will have two exams this semester. The midterm will make up 20% of the total 
 - [Questions](/assets/final/practice_final.pdf)
 - [Solutions](/assets/final/practice_final_solutions.pdf)
 
+### Final Exam
+- [Solutions](https://docs.google.com/document/d/1K4FAQ6EJ3TXknY0twhCQQme7kjAzAOXh/edit?usp=sharing&ouid=103510597919411534669&rtpof=true&sd=true)
+
 </div>
 
 ```markdown
